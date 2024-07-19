@@ -67,9 +67,16 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+BASS.pas
+BASSOPUS.pas
 
 #FMX project
 
 
 #EXE directory
 Win32/
+
+#Unused modules
+uYandexDiskRepository.pas
+uYandexThreadSpeech.pas
+UYandexMudule.pas
